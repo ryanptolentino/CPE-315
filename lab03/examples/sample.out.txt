@@ -1,0 +1,5 @@
+Enter Number 1: Enter Number 2: Enter Operation: Result is: 153
+Again? Enter Number 1: Enter Number 2: Enter Operation: Result is: -1
+Again? Enter Number 1: Enter Number 2: Enter Operation: Result is: 21
+Again? Enter Number 1: Enter Number 2: Enter Operation: Invalid Operation Entered.
+Again? 
